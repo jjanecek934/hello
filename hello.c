@@ -11,7 +11,8 @@ Description:
 
 int main (void) {
 
-    printf("Jonny Janecek\n");
+    printf("Jonny Janecek!\n");
+    printf("Electrical Engineering\n");
 
     return 0;
 }
